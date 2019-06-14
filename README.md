@@ -6,5 +6,7 @@ For additional information and documentation on FusionAuth refer to [https://fus
 ## Notice
 This library is currently in development it is not yet available for public consumption.
 
+> **WARNING**: This project is still in development, feel free to use, but it may not work. You may still feel free to open issues or submit PRs. 
+
 Refer to the FusionAuth API documentation to for request and response formats. 
 * https://fusionauth.io/docs/v1/tech/apis/
