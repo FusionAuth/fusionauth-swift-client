@@ -1,15 +1,15 @@
 //
-//  FusionAutthClientTests.swift
-//  FusionAutthClientTests
+//  FusionAuthClientTests.swift
+//  FusionAuthClientTests
 //
 //  Created by Daniel DeGroff on 11/16/18.
 //  Copyright © 2018 FusionAuth. All rights reserved.
 //
 
 import XCTest
-@testable import FusionAutthClient
+@testable import FusionAuthClient
 
-class FusionAutthClientTests: XCTestCase {
+class FusionAuthClientTests: XCTestCase {
 
     override func setUp() {
         // Put setup code here. This method is called before the invocation of each test method in the class.
